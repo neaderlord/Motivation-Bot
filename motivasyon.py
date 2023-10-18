@@ -43,9 +43,6 @@ mesaj33 = "Kendinizi motive etmek icin, hedeflerinizi yazin ve onlara ulasmak ic
 mesaj34 = "Basarili olmak icin, duzenli olarak kendinizi gelistirin."
 mesaj35 = "Hayatinizin kontrolunu elinizde tutun ve hedeflerinize odaklanin."
 mesaj36 = "Kendinizi gelistirmek icin, yeni seyler denemektenkorkmayin."
-mesaj37 = "tipini skm"
-mesaj38 = "sen beni sevmion"
-mesaj39 = "yapay zeka yaziyo ben deil"
 
 #Tarayıcıyı Açma 
 webbrowser.open_new("https://web.whatsapp.com/send?phone=+905353582641&text&type=+905353582641&app_absent=1")
